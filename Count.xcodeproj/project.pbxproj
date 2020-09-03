@@ -15,6 +15,7 @@
 		81BCF35B2501232F00D92FC0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81BCF3592501232F00D92FC0 /* LaunchScreen.storyboard */; };
 		81BCF3662501233000D92FC0 /* CountTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81BCF3652501233000D92FC0 /* CountTests.swift */; };
 		81BCF3712501233000D92FC0 /* CountUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81BCF3702501233000D92FC0 /* CountUITests.swift */; };
+		81BCF3812501256900D92FC0 /* tubaki_アートボード 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 81BCF3802501256800D92FC0 /* tubaki_アートボード 1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		81BCF36C2501233000D92FC0 /* CountUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CountUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		81BCF3702501233000D92FC0 /* CountUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountUITests.swift; sourceTree = "<group>"; };
 		81BCF3722501233000D92FC0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		81BCF3802501256800D92FC0 /* tubaki_アートボード 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tubaki_アートボード 1.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				81BCF3502501232B00D92FC0 /* SceneDelegate.swift */,
 				81BCF3522501232B00D92FC0 /* ViewController.swift */,
 				81BCF3542501232B00D92FC0 /* Main.storyboard */,
+				81BCF3802501256800D92FC0 /* tubaki_アートボード 1.png */,
 				81BCF3572501232F00D92FC0 /* Assets.xcassets */,
 				81BCF3592501232F00D92FC0 /* LaunchScreen.storyboard */,
 				81BCF35C2501232F00D92FC0 /* Info.plist */,
@@ -235,6 +238,7 @@
 				81BCF35B2501232F00D92FC0 /* LaunchScreen.storyboard in Resources */,
 				81BCF3582501232F00D92FC0 /* Assets.xcassets in Resources */,
 				81BCF3562501232B00D92FC0 /* Main.storyboard in Resources */,
+				81BCF3812501256900D92FC0 /* tubaki_アートボード 1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
